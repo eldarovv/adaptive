@@ -1,0 +1,47 @@
+@media only screen and (max-width: 831px){
+    .container {
+        padding: 0 72px;
+    }
+
+    h1{
+        font-size: 32px;
+        margin: 35px 0;
+    }
+
+    header p {
+        font-size: 14px;
+        margin: 0 0 30px 0;
+    }
+
+    header .photo {
+        width: 211.98px;
+    }
+
+    .photo-first {
+        width: 181.86px;
+        height: 182.44px;
+    }
+
+    .photo-first-ellipse {
+        width: 211.98px;
+        height: 34.17px;
+    }
+
+    section .photo {
+        display: none;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    section .items {
+        margin: 30px 0;
+    }
+
+    section p {
+        font-size: 11px;
+        width: 100px;
+        margin-right: 50px;
+    }
+}
